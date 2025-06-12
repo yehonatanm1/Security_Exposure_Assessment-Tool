@@ -4,8 +4,11 @@
   <img src="https://img.shields.io/badge/status-research%20only-red?style=flat-square" />
   <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" />
-</p>
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel Flag" width="25"/> <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" />
 
+
+</p>
 ## 📚 Description
 
 **Data Grabber Demo** is an educational Python project designed for research and training in cybersecurity and malware analysis. It demonstrates how data can be collected from a Windows machine using Python — including:
