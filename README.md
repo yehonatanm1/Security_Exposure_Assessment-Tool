@@ -5,8 +5,7 @@
   <img src="https://img.shields.io/badge/python-3.10%2B-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel Flag" width="25"/> <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square" />
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel Flag" width="25"/>
 
 </p>
 ## 📚 Description
