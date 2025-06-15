@@ -33,9 +33,19 @@
 
 ## 🚀 Setup
 
-### 1. Clone the project
+### Clone the project
 ```bash
 git clone https://github.com/yehonatanm1/Data_grabber_demo.git
 cd Data_grabber_demo
 pip install -r requirements.txt
 python docs_tool/Data_grabber.py
+
+
+
+
+
+
+
+### Clone the project
+
+
